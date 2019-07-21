@@ -6,7 +6,6 @@
 
 <style>
 
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans');
 
 body {
   display: flex;
